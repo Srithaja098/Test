@@ -15,5 +15,4 @@ Publicly accessible Video link:
     Role/ designation (Do not include personal or sensitive information):
     Experience in the domain (Brief description of responsibilities and years of experience in domain):
     Nature of work: Operational/Administrative/Managerial/Teamlead/Developer
-
 ## Domain Context and Terminology
